@@ -1,0 +1,20 @@
+{
+  "categories": ["plastic","organic","metal","paper","ewaste","unsure"],
+  "base": {
+    "plastic": ["Rinse and dry before recycling", "Avoid mixed materials (plastic + foil)"],
+    "organic": ["Compost if possible", "Keep separate to avoid contaminating dry waste"],
+    "metal":   ["Rinse cans", "Crush to save space"],
+    "paper":   ["Keep dry", "Remove plastic tape where possible"],
+    "ewaste":  ["Do not bin with household waste", "Find authorized e-waste collection"],
+    "unsure":  ["When unsure, keep aside and consult local guidelines"]
+  },
+  "cities": {
+    "chennai": {
+      "plastic": ["Use Chennai GCC dry-waste day for pickup"],
+      "organic": ["GCC encourages home composting; avoid plastic liners"],
+      "metal":   ["Bundle metal cans; keep sharp edges covered"],
+      "paper":   ["Tie newspapers/cardboard in bundles"],
+      "ewaste":  ["Locate TNPCB/GCC authorized e-waste centers; avoid informal disposal"]
+    }
+  }
+}

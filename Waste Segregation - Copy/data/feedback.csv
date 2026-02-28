@@ -1,0 +1,10 @@
+ts,input_type,user_text,predicted,correct_label,city,notes
+2025-10-13T16:54:40.104006,image,,organic,organic,chennai,test feedback
+2025-10-14T04:13:11.813491,image,plastic bag,plastic,plastic,Chennai,
+2025-10-16T08:20:29.581846,text,plastic bottle,plastic,plastic,Chennai,
+2025-10-16T09:00:58.071899,text,plastic bottle,plastic,plastic,Chennai,
+2025-10-16T09:01:50.250941,image,,unsure,organic,Chennai,
+2026-02-17T09:26:40.789777,image,banana,organic,hazardous,Chennai,
+2026-02-17T09:27:35.286736,image,,unsure,organic,Chennai,
+2026-02-17T09:27:57.031475,image,,unsure,organic,Chennai,
+2026-02-17T09:47:44.968415,image,,unsure,unsure,Chennai,

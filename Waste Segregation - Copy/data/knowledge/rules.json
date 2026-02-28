@@ -1,0 +1,10 @@
+{
+  "categories": ["plastic", "organic", "metal", "paper", "ewaste", "unsure"],
+  "keywords": {
+    "plastic": ["bottle", "wrapper", "packet", "poly", "pet", "pouch"],
+    "organic": ["food", "banana", "veg", "fruit", "peel", "leftover", "garden", "leaf"],
+    "metal":   ["can", "tin", "foil", "aluminium", "steel", "cap"],
+    "paper":   ["newspaper", "carton", "tissue", "box", "paper", "magazine"],
+    "ewaste":  ["battery", "charger", "phone", "cable", "earphones", "electronics"]
+  }
+}
